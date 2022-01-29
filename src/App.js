@@ -8,8 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.Try to deploy with actions NEw deploy
-          <p> Another deploy</p>
         </p>
+        <p> Another deploy</p>
+        <p> Another deploy</p>
         <a
           className="App-link"
           href="https://reactjs.org"
